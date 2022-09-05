@@ -1,7 +1,3 @@
-
-
-
-
 Package: enigma2-plugin-extensions-footonsat
 Version: tarek-hanfy
 Section: tarek links
@@ -16,6 +12,7 @@ Depends: enigma2
 Source: none
 Homepage: unknown
 OE: enigma2
+
 
 
 Package: enigma2-plugin-extensions-mycam6
@@ -33,6 +30,9 @@ OE: enigma2
 Homepage: unknown
 Depends: enigma2
 Source: none
+
+
+
 
 
 
