@@ -15,18 +15,37 @@ OE: enigma2
 
 
 
-Package: enigma2-plugin-extensions-mycam6
-Version: emil-nabil
-Description: mycam6
-Maintainer: mycam6
-Architecture: all
-Size: 6928
-MD5Sum: 58d92c4e73de8f123da17fb0620f8794
-Filename: enigma2-plugin-extensions-mycam6_emil-nabil_all.ipk
-Priority: optional
+
+Package: enigma2-plugin-extensions-ipaudio
+Version: tarek-hanfy
+Depends: 
 Section: base
+Architecture: all
+MD5Sum: eafd652413e0b408fd8df5761b5a987a
+Size: 744
+Filename: enigma2-plugin-tarek.links-ipaudio_tarek-hanfy_all
+Description: plugin-extensions-ipaudio
+Maintainer: plugin-extensions-ipaudio
+Priority: optional
+Source: none
+Homepage: unknown
 License: none
 OE: enigma2
-Homepage: unknown
-Depends: enigma2
-Source: none
+
+
+
+Package: enigma2-plugin-extensions-iptosat-v1.8
+Version: emil-nabil
+Depends: exteplayer3 , gstplayer
+Section: base
+Architecture: all
+MD5Sum: a1c7f03213608d1c70c07f58803c98b1
+Size: 14396
+Filename: enigma2-plugin-extensions-iptosat-v1.8_emil-nabil_all.ipk
+Description: enigma2 plugin OE2.0
+Maintainer: emil
+Priority: optional
+Source: none https://github.com/ziko-ZR1/IPtoSAT
+Homepage: none
+License: none
+OE: enigma2
