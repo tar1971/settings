@@ -1,0 +1,92 @@
+
+
+
+
+Package: enigma2-plugin-extensions-footonsat
+Version: tarek-hanfy
+Section: tarek links
+Priority: optional
+Architecture: all
+Size: 4132244
+MD5Sum: a72492b2859894976e68a994b4c258b3
+Filename: enigma2-plugin-extensions-footonsat_tarek-hanfy_all.ipk
+Maintainer: ziko & redouane
+Description: enigma2 plugin OE2.0 OE2.5 football
+Depends: enigma2
+Source: none
+Homepage: unknown
+OE: enigma2
+
+
+Package: enigma2-plugin-extensions-mycam6
+Version: emil-nabil
+Description: mycam6
+Maintainer: mycam6
+Architecture: all
+Size: 6928
+MD5Sum: 58d92c4e73de8f123da17fb0620f8794
+Filename: enigma2-plugin-extensions-mycam6_emil-nabil_all.ipk
+Priority: optional
+Section: base
+License: none
+OE: enigma2
+Homepage: unknown
+Depends: enigma2
+Source: none
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
