@@ -34,16 +34,16 @@ OE: enigma2
 
 
 
-Package: enigma2-plugin-extensions-iptosat-v1.8
-Version: emil-nabil
+Package: enigma2-plugin-extensions-iptosat
+Version: tarek-hanfy
 Depends: exteplayer3 , gstplayer
 Section: base
 Architecture: all
-MD5Sum: a1c7f03213608d1c70c07f58803c98b1
-Size: 14396
-Filename: enigma2-plugin-extensions-iptosat-v1.8_emil-nabil_all.ipk
+MD5Sum: f099dd22fe5093843d0c118bfeb4368b
+Size: 13822
+Filename: enigma2-plugin-tarek.links-iptosat_tarek-hanfy_all
 Description: enigma2 plugin OE2.0
-Maintainer: emil
+Maintainer: tarek
 Priority: optional
 Source: none https://github.com/ziko-ZR1/IPtoSAT
 Homepage: none
