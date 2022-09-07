@@ -3,9 +3,9 @@ Version: tarek-hanfy
 Section: tarek links
 Priority: optional
 Architecture: all
-Size: 4333866
-MD5Sum: a72492b2859894976e68a994b4c258b3
-Filename: enigma2-plugin-extensions-footonsat_tarek-hanfy_all.ipk
+Size: 4333570
+MD5Sum: d402f7e794ec3d032ed755573104ab06
+Filename: enigma2-plugin-extensions-footonsat_tarek-V1.6_all.ipk
 Maintainer: ziko & redouane
 Description: enigma2 plugin OE2.0 OE2.5 football
 Depends: enigma2
